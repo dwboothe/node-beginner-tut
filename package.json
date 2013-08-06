@@ -2,10 +2,10 @@
 	"name":"node-beginner-tut",
 	"version": "0.0.1",
 	"dependencies":{
-		"formidable":"1.0.x"
+		"formidable":"1.0.14"
 	},
 	"engines":{
-		"node":"0.10.x",
-		"npm": "1.2.x"
+		"node":"0.10.12",
+		"npm": "1.2.32"
 	}
 }
